@@ -1,6 +1,6 @@
 Connor- Economy Programming, Wiki/Site Page
 Sam- UI, UI Programming
-Andrew- Unit and Terrain Programming/Entitiy Management
+Andrew- Unit and Terrain Programming/Entity Management
 Julie- Unit Programming
 Tim- Everything
 James- Assets
